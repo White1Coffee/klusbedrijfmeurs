@@ -1,0 +1,28 @@
+### Node.js (Dependencies)
+
+**/node_modules/
+node_modules/ 
+
+### Omgevingsvariabelen
+
+**/ .env
+.env
+.env.local
+.env.*.local 
+
+### Logs (Foutrapportages)
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+eslint--debug.log* 
+
+### Systeembestanden (Mac & Windows specifieke rommel)
+
+.DS_Store
+Thumbs.db 
+
+### Productie builds (De uiteindelijke gecomprimeerde website code)
+
+**/dist/
+**/build/ 
